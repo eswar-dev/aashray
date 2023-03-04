@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.00d7d539.css",
+    "main.js": "/react/static/js/main.a86c2b36.js",
+    "static/js/787.4df6c345.chunk.js": "/react/static/js/787.4df6c345.chunk.js",
+    "static/media/PPT.png": "/react/static/media/PPT.0d84890ab983bf94d540.png",
+    "static/media/Flashmob.jpg": "/react/static/media/Flashmob.7df93815213a189941ba.jpg",
+    "static/media/bgaashray.jpg": "/react/static/media/bgaashray.83588d57bba1f2c4341e.jpg",
+    "static/media/Culturals.jpg": "/react/static/media/Culturals.63fda61a971fab6b74ec.jpg",
+    "static/media/quiz.jpg": "/react/static/media/quiz.fef7a7a739ed8f541e19.jpg",
+    "static/media/miniproj.jpeg": "/react/static/media/miniproj.2d436cf0bbd900e7ad90.jpeg",
+    "static/media/brouchre2.png": "/react/static/media/brouchre2.b044bc77f207b2958450.png",
+    "static/media/culturals.jpeg": "/react/static/media/culturals.656ad64d1f6f35bd2dfc.jpeg",
+    "static/media/qgis.png": "/react/static/media/qgis.e64009fdc0a2a467f17c.png",
+    "static/media/poster-ppresentation.jpg": "/react/static/media/poster-ppresentation.075f1bba1e2b30fb8eed.jpg",
+    "static/media/brochure1.png": "/react/static/media/brochure1.848b20ead81e221cb4a8.png",
+    "static/media/workshop.jpeg": "/react/static/media/workshop.b6ebbebd9beed14c145e.jpeg",
+    "static/media/poster.jpeg": "/react/static/media/poster.d9e9cd46b5fdab433002.jpeg",
+    "static/media/pptpre.jpeg": "/react/static/media/pptpre.711cecb22f37f367121e.jpeg",
+    "static/media/aashray 2k19.jpeg": "/react/static/media/aashray 2k19.8b064964eba65f525611.jpeg",
+    "static/media/aashray.jpeg": "/react/static/media/aashray.f50f374d14e92d1a89c1.jpeg",
+    "static/media/aashray 2k19 1.jpeg": "/react/static/media/aashray 2k19 1.7512743f73d1db800eb8.jpeg",
+    "static/media/miniprojects.jpeg": "/react/static/media/miniprojects.eaf30b0a5585de8fb97b.jpeg",
+    "index.html": "/react/index.html",
+    "main.00d7d539.css.map": "/react/static/css/main.00d7d539.css.map",
+    "main.a86c2b36.js.map": "/react/static/js/main.a86c2b36.js.map",
+    "787.4df6c345.chunk.js.map": "/react/static/js/787.4df6c345.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00d7d539.css",
+    "static/js/main.a86c2b36.js"
+  ]
+}
